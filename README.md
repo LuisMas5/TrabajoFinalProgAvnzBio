@@ -27,7 +27,7 @@ pip install -r requirements.txt
 Ejecutar el script principal para entrenar, aplicar pruning y cuantización:
 
 ```bash
-python pruning_quantization.py
+python modelo.py
 ```
 
 ## Resultados
